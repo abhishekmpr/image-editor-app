@@ -1,0 +1,6 @@
+{
+  "name": "image-editor-app",
+  "title": "Image Editor App",
+  "description": "A simple image editor app built with React, Node.js, and HTML/CSS.",
+  "technology": "React Node.js HTML/CSS"
+}
